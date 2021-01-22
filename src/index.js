@@ -17,7 +17,7 @@ app.use(require('./routes/index'));
     res.json({"Title": "El Bromas"});
 });*/
 app.use('/api/movies', require('./routes/movies'));/* todas las rutas movies van  a empezar con /api/movies */
-
+app.use('/api/users', require('./routes/users'));
 
 //starting the server: Aplicacion escucha en el puerto 3000, y cuando inicies has a continuacion.
 app.listen(app.get('port'), () =>

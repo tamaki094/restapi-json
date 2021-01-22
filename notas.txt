@@ -16,3 +16,8 @@ npm i nodemon -D
 
 *Ejecuta el ocmando dev que tengo en mi package.json
 npm run dev
+
+
+
+*Para utilizar peticiones GET, POST, PUT, DELETE a otro servicio
+ npm i node-fetch
