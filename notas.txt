@@ -1,0 +1,18 @@
+*CREAR package.json
+npm init --yes
+
+
+*Instalar paquetes:
+npm i express morgan
+(express: es un framework de node para escribir codigo en servidor)
+(morgan: nos permite ver las peticiones desde consola las peticiones que nos van llegando)
+
+
+*Levantar servidor
+node src/index.js
+
+*
+npm i nodemon -D
+
+*Ejecuta el ocmando dev que tengo en mi package.json
+npm run dev
