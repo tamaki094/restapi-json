@@ -1,0 +1,27 @@
+{
+    "User":
+    [
+        {
+            "name" : "Edri Alan",
+            "avatar": "ang.png",
+            "level": 1,
+            "points": 2,
+            "achievements": "no se que poner aqui",
+            "_id": "01",
+            "type": "admin",
+            "user": "eangulo", 
+            "email": "edri.alan.94@gmail.com" 
+        },
+        {
+            "name" : "Juan Perez",
+            "avatar": "juan.png",
+            "level": 2,
+            "points": 100,
+            "achievements": "no se que poner aqui",
+            "_id": "02",
+            "type": "admin",
+            "user": "juanp", 
+            "email": "juanp@gmail.com" 
+        }
+    ]
+}

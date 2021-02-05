@@ -4,7 +4,7 @@ const router = Router();
 
 router.get('/', (req,res) => {
     /*res.send('Hello world!');*/
-    res.json({"Title": "El Bromas"});
+    res.json({"Inicio": "BIENVNEIDO A MI PRIMER API EN NODEJS"});
 });
 
 router.get('/test', (req,res) => {

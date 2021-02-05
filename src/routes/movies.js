@@ -43,7 +43,7 @@ router.delete('/borrar/:id', (req,res) =>{
 
     res.json(movies);
 });
-module.exports = router; 
+
 
 
 router.put('/actualizar/:id', (req,res) => {
@@ -71,3 +71,5 @@ router.put('/actualizar/:id', (req,res) => {
     }
 
 });
+
+module.exports = router; 
