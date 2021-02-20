@@ -2,26 +2,72 @@
     "User":
     [
         {
-            "name" : "Edri Alan",
-            "avatar": "ang.png",
-            "level": 1,
-            "points": 2,
-            "achievements": "no se que poner aqui",
-            "_id": "01",
-            "type": "admin",
-            "user": "eangulo", 
-            "email": "edri.alan.94@gmail.com" 
+            "sucess" : true,
+            "usuario" :
+            {
+                "name" : "Edri Alan",
+                "avatar": "ang.png",
+                "level": 1,
+                "points": 2,
+                "achievements": "no se que poner aqui",
+                "_id": "01",
+                "type": "root",
+                "user": "eangulo", 
+                "email": "edri.alan.94@gmail.com" ,
+                "password": "123"
+            },
+            "token" : "dsfskjfhskjhfkjshfsf354sf564dsf6s7fs6fs6d7f897w9e87sgd"
         },
         {
-            "name" : "Juan Perez",
-            "avatar": "juan.png",
-            "level": 2,
-            "points": 100,
-            "achievements": "no se que poner aqui",
-            "_id": "02",
-            "type": "admin",
-            "user": "juanp", 
-            "email": "juanp@gmail.com" 
+            "sucess" : true,
+            "usuario" :
+            {
+                "name" : "Juan Perez",
+                "avatar": "juan.png",
+                "level": 2,
+                "points": 100,
+                "achievements": "no se que poner aqui",
+                "_id": "02",
+                "type": "master",
+                "user": "juanp", 
+                "email": "juanp@gmail.com",
+                "password": "123"
+            },
+            "token" : "ada5FD64F6S4F56A4FDS87F8f7F7F97snsbshSD51000044sdgfdsgd"           
+        },
+        {
+            "sucess" : true,
+            "usuario" :
+            {
+                "name" : "Viridiana Gael",
+                "avatar": "viri.png",
+                "level": 3,
+                "points": 100,
+                "achievements": "no se que poner aqui",
+                "_id": "03",
+                "type": "analista",
+                "user": "viri_g", 
+                "email": "viri_g@gmail.com",
+                "password": "123"
+            },
+            "token" : "ada5Fsdfd75f7hf67F6DSG67DF66SD7F6666F7bshSD51000044sdgfdsgd"           
+        },
+        {
+            "sucess" : true,
+            "usuario" :
+            {
+                "name" : "Naruto Usumaki",
+                "avatar": "naruto.png",
+                "level": 1,
+                "points": 1000,
+                "achievements": "no se que poner aqui",
+                "_id": "04",
+                "type": "root",
+                "user": "naruto_u", 
+                "email": "naruto_u@gmail.com",
+                "password": "123"
+            },
+            "token" : "adfhgfh47797987popoedjdhdHHSDIHF66SD7F6666F7bshSDgd"           
         }
     ]
 }
